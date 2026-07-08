@@ -48,31 +48,12 @@ git clone https://github.com/YourUsername/Vacation-Hotel-Website.git
 
 Open the project folder and launch `index.html` in your preferred web browser.
 
----
 
-## 💻 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-```
-screenshots/
-├── home-page.png
-├── destination-section.png
-└── responsive-view.png
-```
-
----
 
 ## 🌐 Live Demo
 
-Add your deployed website link here.
 
-Example:
-
-```
-https://your-project.netlify.app
+``(https://hotel-41tgnvzvi-html9.vercel.app)
 ```
 
 ---
