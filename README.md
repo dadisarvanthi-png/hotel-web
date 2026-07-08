@@ -108,10 +108,10 @@ This project is licensed under the MIT License.
 
 ## 👩‍💻 Author
 
-**Your Name**
+d.sravanthi
 
-- GitHub: https://github.com/YourUsername
-- LinkedIn: https://linkedin.com/in/YourProfile
+- GitHub: https://github.com/dadisarvanthi-png
+- LinkedIn:www.linkedin.com/in/dadi-sravanthi
 
 ---
 
